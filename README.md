@@ -1,4 +1,4 @@
-# Managing my personal server in 2020 -- PLICHEV
+# Managing my personal server in 2020 -- PLICHEV WEB
 
 <p align="center">
   <img src="https://github.com/erebe/personal-server/raw/master/logo.jpeg" alt="logo"/>
