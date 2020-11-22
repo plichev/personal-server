@@ -1,5 +1,6 @@
 # Managing my personal server in 2020 -- PLICHEV WEB
-## this soulf be signed
+## this sould be signed
+## and commit without -S
 
 <p align="center">
   <img src="https://github.com/erebe/personal-server/raw/master/logo.jpeg" alt="logo"/>
